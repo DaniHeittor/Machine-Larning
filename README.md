@@ -1,2 +1,2 @@
 # Machine-Learning
-varios Exercicio para o meu conhecimento
+varios Exercicio feito machine-learning feito em python
